@@ -1,0 +1,36 @@
+
+h1{
+  color: blue;
+ font-size: 40PX;
+ margin: 2em;
+ border: 6px dotted;
+ padding: 20px;
+}
+img{
+ border:30px pink solid;
+ width:600px;
+ height:600px;
+}
+body{
+  background-color:pink;
+}
+ol{
+  background-color: pink;
+}
+ul{
+  background-color: pink;
+}
+li:hover{
+  font-size: 50px;
+}
+img:hover{
+  heigt:500px;
+  width: 500px;
+  transition: 0.1s ease;
+}
+li{
+  transition: 0.3s ease;
+}
+h1{
+  background-color: grey;
+}
